@@ -1,0 +1,6 @@
+{
+  "name": "SiteForge AI",
+  "description": "AI-powered website builder foundation and workspace shell.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
